@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm currently working on career transition
-- 🌱 I’m currently learning Certified Tech Developer by Digital House and 6° sem Computer Eng.
-- 👯 I’m looking to collaborate on projects privates and open source 
+- 🌱 I’m currently learning Certified Tech Developer by Digital House and 7° sem Computer Eng.
+- 👯 I’m looking to collaborate on projects privates and open source
 - 🤔 I’m looking for help with my learning and contribute for community
 - 📫 How to reach me: eduardo.ananiasdev@outlook.com
 
@@ -26,11 +26,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Eduardo-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Eduardo-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
 </div>
-  
- ##
-  
-  <div> 
-  <a href="www.linkedin.com/in/eduardo-ananias-29a53048" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-</div>
 
+ ##
+
+  <div>
+  <a href="www.linkedin.com/in/eduardo-ananias-29a53048" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
