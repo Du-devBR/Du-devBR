@@ -3,10 +3,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm currently working on career transition
-- 🌱 I’m currently learning Certified Tech Developer by Digital House and 7° sem Computer Eng.
+- 🌱 I'm a Computer Engineer and as a Professional Developer by Digital house.
+- I'm currently studying frontend developer specialization at Digital house.
 - 👯 I’m looking to collaborate on projects privates and open source
 - 🤔 I’m looking for help with my learning and contribute for community
-- 📫 How to reach me: eduardo.ananiasdev@outlook.com
+- 📫 How to reach me: eduardo.ananias2@hotmail.com
 
 
  <div>
